@@ -1,0 +1,24 @@
+Design,Designation,Name,Quantity*,Manufacturer,Mfr #,Supplier,Supplier #,Stock,Link
+Input Panel,1,DPST (Power),1,Bulgin,H8550VBBBEN551W,Digi-key,1091-1062-ND,Yes,https://www.digikey.com.au/product-detail/en/bulgin/H8550VBBBEN551W/1091-1062-ND/2747893
+,2,Reset (4.3),1,C&K,PTS645SK43-2 LFS,Digi-key,CKN9090-ND,Yes,https://www.digikey.com.au/product-detail/en/c-k/PTS645SK43-2-LFS/CKN9090-ND/1146784
+,,Reset (5),1,C&K,PTS645SK50SMTR92 LFS,Digi-key,CKN9087CT-ND,Yes,https://www.digikey.com.au/product-detail/en/c-k/PTS645SK50SMTR92-LFS/CKN9087CT-ND/1146813
+,,Reset (7),1,C&K,PTS645SK70-2 LFS,Digi-key,CKN10903-ND,Yes,https://www.digikey.com.au/product-detail/en/c-k/PTS645SK70-2-LFS/CKN10903-ND/3861371
+,3,RGB LED,1,QTB,QBL8RGB60D0-2897,Digi-key,1516-QBL8RGB60D0-2897-ND,Yes,https://www.digikey.com.au/product-detail/en/qt-brightek-qtb/QBL8RGB60D0-2897/1516-QBL8RGB60D0-2897-ND/10441184
+,4,USB B,1,On Shore Technology Inc.,USB-B1KSB6,Digi-key,ED2981-ND,Yes,https://www.digikey.com.au/products/en?keywords=ED2981-ND
+Output Panel,6,2P Terminal Block F,2,CAMDENBOSS,CTB9300/2A,Element14,3882032,Yes,https://au.element14.com/camdenboss/ctb9300-2a/connector-header-tht-5mm-2way/dp/3882032
+,7,2P Terminal Block M,2,CAMDENBOSS,CTB9200/2A,Element14,3881854,Yes,https://au.element14.com/camdenboss/ctb9200-2a/terminal-block-pluggable-2pos/dp/3881854?st=ctb9200/2a
+,8,3P Terminal Block F,4,CAMDENBOSS,CTB9300/3A,Element14,3882044,Yes,https://au.element14.com/camdenboss/ctb9300-3a/header-vertical-3way/dp/3882044
+,9,3P Terminal Block M,4,CAMDENBOSS,CTB9200/3A,Element14,3881866,Yes,https://au.element14.com/camdenboss/ctb9200-3a/terminal-block-pluggable-3pos/dp/3881866?ost=ctb9200%2F3a
+,10,8P Terminal Block F,2,CAMDENBOSS,CTB9300/8A,Element14,3882070,Yes,https://au.element14.com/camdenboss/ctb9300-8a/header-vertical-8way/dp/3882070
+,11,8P Terminal Block M,2,CAMDENBOSS,CTB9200/8A,Element14,3881891,Yes,https://au.element14.com/camdenboss/ctb9200-8a/terminal-block-pluggable-8pos/dp/3881891?ost=ctb9200%2F8a
+,12,RED LED,2,Würth Elektronik,151051BS04000,Digi-key,732-5015-ND,Yes,https://www.digikey.com.au/product-detail/en/w%C3%BCrth-elektronik/151051RS11000/732-5016-ND/4490012
+,13,LED Holder,3,Würth Elektronik,705820020,Digi-key,732-11589-ND,Yes,https://www.digikey.com.au/product-detail/en/w%C3%BCrth-elektronik/705820020/732-11589-ND/7681934
+Headers,-,16P Stackable headers,3,Samtec,CES-108-02-T-D,Mouser,200-CES10802TD,Yes,https://au.mouser.com/ProductDetail/Samtec/CES-108-02-T-D/?qs=0lQeLiL1qyYEKCvuao%2FWRA%3D%3D
+,,18P Stackable headers,3,Samtec,CES-109-02-T-D,Mouser,200-CES10902TD,Yes,https://au.mouser.com/ProductDetail/Samtec/CES-109-02-T-D/?qs=%252BZP6%2F%252BtExtDQHi0VkxZoJQ%3D%3D
+Analog Board,"U1,U2",ADC,2,Texas Instruments,ADC108S022CIMT/NOPB,Digi-key,ADC108S022CIMT/NOPB-ND,Yes,https://www.digikey.com.au/products/en?keywords=ADC108S022CIMT%2FNOPB
+,"U3,U4,U5,U6",MUX,4,On Semiconductor,MC74HC4316ADR2G,Digi-key,MC74HC4316ADR2GOSTR-ND,Yes,https://www.digikey.com.au/products/en?keywords=MC74HC4316ADR2GOSTR-ND
+IO Boards,R1,Resistor,2,Yageo,RC0603FR-07330RL,Digi-key,311-330HRCT-ND,Yes,https://www.digikey.com.au/product-detail/en/yageo/RC0603FR-07330RL/311-330HRCT-ND/730109
+Main Board,U3,PTC Fuse,1,Bourns Inc.,SF-1206S600M-2,Digi-key,SF-1206S600M-2CT-ND,Yes,https://www.digikey.com.au/product-detail/en/bourns-inc/SF-1206S600M-2/SF-1206S600M-2CT-ND/8275545
+,,Coin Cell,1,RENATA,CR2032 (R),Element14,3825954,Yes,https://au.element14.com/renata/cr2032-r/cell-coin-20mm-3v/dp/3825954?st=cr2032
+,,,,,,,,,
+*All quantities are for manufacture of a singular board,,,,,,,,,
