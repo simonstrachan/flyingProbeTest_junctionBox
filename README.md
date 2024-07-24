@@ -1,4 +1,4 @@
-# Vulcan Hardware
+# Flying Probe Test Junction Box
 
 This includes all the Schematics, PCBs, 3D models and any documents used such as the BOM, Reference Designs and Datasheets.
 
